@@ -5,6 +5,6 @@
  
  ## Links
 [Join the official server!](https://discord.gg/HUPnPv8)
-[Invite the bot!](https://discordbots.org/bot/312668157552623616) 
+[Invite the bot!](https://discordbots.org/bot/327902710349430785) 
 
 ![https://discordbots.org/](https://discordbots.org/images/logotrans.png)
